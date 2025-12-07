@@ -1,0 +1,7 @@
+{
+  "name": "aura-tarot",
+  "description": "A luxury mystical tarot card identifier using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
